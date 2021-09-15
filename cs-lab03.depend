@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1623176822 source:c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<cstring>
+	<curl/curl.h>
+	<Windows.h>
+	"svg.h"
+	"histogram.h"
+	<windows.h>
+
+1623176822 c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\svg.h
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<sstream>
+
+1623176822 c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\histogram.h
+	<vector>
+
+1623176822 source:c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\histrogram.cpp
+	<iostream>
+	<vector>
+	"histogram.h"
+
+1626668398 c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1626839106 c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\curl\include\curl\curlver.h
+
+1625663684 c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1625663684 c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\curl\include\curl\easy.h
+
+1625663684 c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\curl\include\curl\multi.h
+	"curl.h"
+
+1626687462 c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\curl\include\curl\urlapi.h
+	"curl.h"
+
+1625663684 c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\curl\include\curl\options.h
+
+1625663856 c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\curl\include\curl\typecheck-gcc.h
+
+1631461198 source:c:\users\mshlk\documents\cs-lab03-lab04-1\cs-lab03\svg.cpp
+	<iostream>
+	<string>
+	<vector>
+	"svg.h"
+
